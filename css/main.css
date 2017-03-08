@@ -73,6 +73,7 @@ body{
 }
 .container{
 	width: 30rem;
+	margin: auto;
 }
 .masthead{
     text-align: center;
