@@ -72,7 +72,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .container{
-	width: 30rem;
+	max-width: 30rem;
     margin: auto;
 }
 .masthead{
